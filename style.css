@@ -81,8 +81,8 @@ div.iframe {
 
 
 p.caption {
-	font-size: 0.7em;
-	line-height: .05%;
+	font-size: 0.5em;
+	line-height: auto;
 	text-align: center;
 	padding: 10px;
 }
